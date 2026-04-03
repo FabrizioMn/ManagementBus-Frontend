@@ -4,7 +4,7 @@ Este es el cliente web desarrollado para la gestión y visualización de una flo
 
 ## 🚀 Tecnologías y Herramientas
 
-* **React 18**: Biblioteca principal para la construcción de la interfaz.
+* **React 19**: Biblioteca principal para la construcción de la interfaz.
 * **TypeScript**: Implementación de interfaces y tipos para un desarrollo libre de errores en tiempo de ejecución.
 * **Vite**: Toolchain de nueva generación para un entorno de desarrollo veloz.
 * **Tailwind CSS**: Framework de utilidades para un diseño responsivo y moderno con estética *Dark Mode*.
